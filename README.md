@@ -2,7 +2,7 @@
 
 ## Objective
 
-To design a VM implement a honeypot lab environment to attract and monitor malicious activities. 🍯
+To design a VM to implement a honeypot environment to attract and monitor malicious activities. 🍯
  
 ### Skills Learned
 
@@ -17,4 +17,5 @@ To design a VM implement a honeypot lab environment to attract and monitor malic
 - Microsoft Azure 
   
 ## Steps
+![Screenshot 2024-06-07 165442](https://github.com/PMW25/HoneyPot-Lab/assets/160429030/a170fc3c-a4e5-4ba8-a879-6c8bc7ae1bd4)
 
